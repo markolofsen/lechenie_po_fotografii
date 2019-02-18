@@ -5,9 +5,10 @@
 ---
 
 ## Treatment by photo online
+## Лечение по фотографии
 
 
-Version = 0.0.2 <br />
+Version = 0.0.3 <br />
 Library name = lechenie_po_fotografii <br />
 Title = Лечение по фотографии <br />
 Keywords = Git,  upload,  package,  repo <br />
@@ -15,7 +16,7 @@ Keywords = Git,  upload,  package,  repo <br />
 ### Hot to install
 
 ```sh
-pip3 install lechenie_po_fotografii==0.0.2
+pip3 install lechenie_po_fotografii==0.0.3
 ```
                     
 
